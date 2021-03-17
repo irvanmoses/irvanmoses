@@ -19,3 +19,6 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=irvanmoses&show_icons=true&include_all_commits=true)](https://github.com/irvanmoses/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irvanmoses&layout=compact)](https://github.com/irvanmoses/github-readme-stats)
 
+[![Irvan Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=irvanmoses)](https://github.com/anuraghazra/github-readme-stats)
+
+
