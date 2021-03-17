@@ -17,7 +17,11 @@
 
 ## Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=irvanmoses&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/irvanmoses/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irvanmoses&layout=compact)](https://github.com/irvanmoses/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=irvanmoses&theme=onedark)](https://github.com/irvanmoses/github-profile-trophy)
+
 
 
 
