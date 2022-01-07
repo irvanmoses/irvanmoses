@@ -4,7 +4,7 @@
 **irvanmoses/irvanmoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on **UI/UX** and **Web Design**
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and **React JS**
 
 
 ## My skills 🚀
