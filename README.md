@@ -14,17 +14,17 @@ UI Designer with a passion for creating high quality, unique, and clean designs.
 ---
 
 <a href="mailto:irvanmoses10@gmail.com">
-    <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
+    <img height="32" align="left" alt="Mail" src="icons/protonmail.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/irvan-moses-2784771b0">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+    <img height="32" align="left" alt="LinkedIn" src="icons/linkedin.png" />
 </a>
 
 <a href="https://dribbble.com/cszach">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+    <img height="32" align="left" alt="Dribbble" src="icons/dribbble.png" />
 </a>
 
 <a href="https://www.instagram.com/irvan_moses">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+    <img height="32" align="left" alt="Instagram" src="icons/instagram.png" />
 </a>
