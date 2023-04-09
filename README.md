@@ -11,7 +11,6 @@ UI Designer with a passion for creating high quality, unique, and clean designs.
 
 ###### Learning: Front-End, Typescript, React.js
 
----
 
 <a href="https://www.linkedin.com/in/irvan-moses-2784771b0">
     <img height="32" align="left" alt="LinkedIn" src="icons/linkedin.png" />
