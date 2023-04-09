@@ -5,7 +5,7 @@
 <!--
 **irvanmoses/irvanmoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Irvan Moses. UI Designer with a passion for creating high quality, unique, and clean designs. I've spirit to learn about Front-end Web Development with React.js, SCSS, and Bootstrap.
+I'm Irvan Moses. UI Designer with a passion for creating high quality, unique, and clean designs. I've spirit to learn about Front-end Web Development with React.js, Typescript, SCSS, Bootstrap, and TailwindCSS
 
 - 💼 Currently working on **ProSettings.net**
 
