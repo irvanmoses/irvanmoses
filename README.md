@@ -13,10 +13,6 @@ UI Designer with a passion for creating high quality, unique, and clean designs.
 
 ---
 
-<a href="mailto:irvanmoses10@gmail.com">
-    <img height="32" align="left" alt="Mail" src="icons/protonmail.png" />
-</a>
-
 <a href="https://www.linkedin.com/in/irvan-moses-2784771b0">
     <img height="32" align="left" alt="LinkedIn" src="icons/linkedin.png" />
 </a>
