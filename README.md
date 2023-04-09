@@ -1,13 +1,13 @@
 <a href="https://app.daily.dev/irvan_moses"><img align='right' src="https://api.daily.dev/devcards/c3a197328ace48ada3e0fdfba2812941.png?r=kgc" width="200" alt="Irvan Moses's Dev Card"/></a>
 
-# Hi, I'm Irvan Moses 👋
+# Hi, <img src="https://raw.githubusercontent.com/irvanmoses/irvanmoses/main/wave.gif" width="30px" height="30px" />
 
 <!--
 **irvanmoses/irvanmoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-UI Designer with a passion for creating high quality, unique, and clean designs. I've spirit to learn about Front-end Web Development with React.js, SCSS, and Bootstrap.
+I'm Irvan Moses. UI Designer with a passion for creating high quality, unique, and clean designs. I've spirit to learn about Front-end Web Development with React.js, SCSS, and Bootstrap.
 
-- 💼 I’m currently working on **ProSettings.net**
+- 💼 Currently working on **ProSettings.net**
 
 ###### Learning: Front-End, Typescript, React.js
 
