@@ -7,9 +7,9 @@
 
 I'm Irvan Moses. UI Designer with a passion for creating high quality, unique, and clean designs. I've spirit to learn about Front-end Web Development with React.js, Typescript, SCSS, Bootstrap, and TailwindCSS
 
-- 💼 Currently working on **ProSettings.net**
+- 💼 Currently working on **ProSettings.net** as UI/UX Designer
 
-###### Learning: Front-End, Typescript, React.js
+###### Learning: Front-End Web, React.js, Typescript
 
 
 <a href="https://www.linkedin.com/in/irvan-moses-2784771b0">
