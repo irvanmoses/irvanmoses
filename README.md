@@ -16,7 +16,7 @@ I'm Irvan Moses. UI Designer with a passion for creating high quality, unique, a
     <img height="32" align="left" alt="LinkedIn" src="icons/linkedin.png" />
 </a>
 
-<a href="https://dribbble.com/cszach">
+<a href="https://dribbble.com/irvan_moses">
     <img height="32" align="left" alt="Dribbble" src="icons/dribbble.png" />
 </a>
 
