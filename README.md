@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/irvan_moses"><img align='right' src="https://api.daily.dev/devcards/c3a197328ace48ada3e0fdfba2812941.png?r=kgc" width="200" alt="Irvan Moses's Dev Card"/></a>
+
 
 # Hi, <img src="https://raw.githubusercontent.com/irvanmoses/irvanmoses/main/wave.gif" width="30px" height="30px" />
 
