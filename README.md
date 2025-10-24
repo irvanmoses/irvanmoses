@@ -5,15 +5,17 @@
 <!--
 **irvanmoses/irvanmoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Irvan Moses. UI Designer and UI Engineer with a passion for creating high quality, unique, and clean designs. 
+I'm Irvan Moses. UI Developer and AI Automation Designer dedicated to building digital assets that don't just look good, they perform. I specialized in crafting high-conversion, minimalist design principles to create interfaces that maximize lead capture and implement intelligent automation to scale your service-based business.
 
-- Tech stack: Next.js, Typescript, and Tailwind CSS
-- Currently working on **ProSettings.net** as UI Designer
+
+- Tech stack: Next.js, N8N, Wordpress, GoHighLevel, Wix.
+- Vibe-coding Stack: Lovable, Bolt.new, v0, Cursor AI.
+- Currently working on **<a href="https://www.scaleandgrow.io">scaleandgrow.io</a>** as Full-stack Designer
 
 <a href="https://www.linkedin.com/in/irvan-moses-2784771b0">
-    <img height="32" align="left" alt="LinkedIn" src="icons/linkedin.png" />
+    LinkedIn
 </a>
-
+&nbsp;
 <a href="https://dribbble.com/irvan_moses">
-    <img height="32" align="left" alt="Dribbble" src="icons/dribbble.png" />
+    Dribbble
 </a>
